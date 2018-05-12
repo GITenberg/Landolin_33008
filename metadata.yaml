@@ -1,0 +1,37 @@
+_repo: Landolin_33008
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Irish, Annie B.
+    gutenberg_agent_id: '36160'
+    url: http://www.gutenberg.org/2009/agents/36160
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Auerbach, Berthold
+    alias: Baruch, Moses
+    birthdate: 1812
+    deathdate: 1882
+    gutenberg_agent_id: '8194'
+    url: http://www.gutenberg.org/2009/agents/8194
+    wikipedia: http://en.wikipedia.org/wiki/Berthold_Auerbach
+description: '""We do not err, we think, in calling this one of his masterpieces,
+  in which we have his art at its best.""--N.Y. Evening Post. ""In every sense one
+  of his best works ... It is evident throughout, that he has neither ''written out,
+  '' nor lost the vein of originality and freshness which give such a charm to his
+  books.""--Boston Post.'
+gutenberg_issued: '2010-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into English'
+- !lcc 'PT'
+title: Landolin
+url: http://www.gutenberg.org/ebooks/33008
